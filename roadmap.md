@@ -1,8 +1,16 @@
-#HTML5 Boiler Plate
-#Nav
-#Slider
-#Intro(col-sm-4)
-#sideImg + Intro
-#3 Steps
-#Img with cat-sorting - http://demos.artbees.net/jupiter5 - Class="mk-page-section"
-#
+# Murs
+## Murs HTML5 Responsive Template
+
+
+### Pre-NavVar http://rnbtheme.com/thirty_seventh/
+### Navbar		http://rnbtheme.com/thirty_seventh/
+### Slider
+### Intro
+### 3 Steps
+### 
+### 
+### 
+### Where are we(googleMap) 
+### About
+### Sub-Footer
+### Footer

@@ -5927,6 +5927,16 @@ button.close {
   height: 400px;
   overflow: hidden; }
 
+.portfolio img {
+  box-sizing: border-box;
+  width: 100%;
+  height: 250px; }
+
+.benifit {
+  background: #4CD4B0;
+  color: #FFF;
+  margin-top: 24px; }
+
 /* Modules */
 /**
  * ----------------------------------------------------------------------------------------

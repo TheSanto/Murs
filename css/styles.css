@@ -5895,6 +5895,11 @@ button.close {
  * Main styles.
  * ----------------------------------------------------------------------------------------
  */
+.blog img {
+  box-sizing: border-box;
+  width: 100%;
+  height: 250px; }
+
 .services {
   margin-bottom: 24px; }
   .services h2 {

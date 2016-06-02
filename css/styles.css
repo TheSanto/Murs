@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /**
- * ----------------------------------------------------------------------------------------
- * style.scss
- *
- * Author: Jamal Uddin
- ----------------------------------------------------------------------------------------
- */
+* ----------------------------------------------------------------------------------------
+* style.scss
+*
+* Author: Jamal Uddin
+----------------------------------------------------------------------------------------
+*/
 /* Utilities */
 @import url(https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic&subset=latin,latin-ext);
 .row {
@@ -5839,11 +5839,94 @@ button.close {
  */
 /* Fonts */
 /* Layout */
+.sub-nav p {
+  margin-top: 10px; }
+
+.navbar {
+  border-radius: 0px;
+  border-top: 3px solid #a2a2a2; }
+
+.sociocon {
+  margin-top: 10px; }
+
+.navbar-default .navbar-nav > li > a {
+  color: #2CC990; }
+
+.navbar-default .navbar-nav > li > a:active {
+  color: #2CC990; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #239f72;
+  background-color: #e7e7e7; }
+
+.search {
+  border-left: 2px solid #aeaeae;
+  border-right: 2px solid #aeaeae; }
+  .search span {
+    padding-left: 6px; }
+
+.speciality h2, .speciality h4, .speciality p {
+  line-height: 2em; }
+.speciality span {
+  font-size: 34px;
+  border-top: 1px solid #FEC606;
+  border-radius: 50%;
+  padding: 10px;
+  background-color: #FEC606;
+  color: #fff; }
+
+.sp-items {
+  border-bottom: 2px solid #D2D7D3; }
+
+.speciality-bot {
+  margin-top: 24px;
+  background: #2CC990;
+  color: #fff; }
+
+.quote-btn {
+  border: 2px solid #fff;
+  border-radius: 0;
+  margin-top: 26px;
+  color: #fff;
+  font-size: 18px; }
+
 /**
  * ----------------------------------------------------------------------------------------
  * Main styles.
  * ----------------------------------------------------------------------------------------
  */
+.services {
+  margin-bottom: 24px; }
+  .services h2 {
+    line-height: 3em; }
+  .services span {
+    font-size: 24px;
+    padding: 12px;
+    margin-top: 20px;
+    border: 2px solid #888;
+    border-radius: 50%;
+    background: #888;
+    color: #fff; }
+
+.subser {
+  background: #fafafa; }
+
+.no_pad {
+  padding: 0; }
+
+.item_right h3 {
+  color: #2CC990; }
+
+.slider-main {
+  height: 800px;
+  width: 100%; }
+
+.skill {
+  background: url("../img/fillum.jpg") no-repeat;
+  width: 100%;
+  height: 400px;
+  overflow: hidden; }
+
 /* Modules */
 /**
  * ----------------------------------------------------------------------------------------
@@ -5865,7 +5948,5 @@ button.close {
  * Table styles.
  * ----------------------------------------------------------------------------------------
  */
-body {
-  height: 2000px; }
 
 /*# sourceMappingURL=styles.css.map */
